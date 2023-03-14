@@ -1,0 +1,7 @@
+@inproceedings{REPO-012,
+    author = "van Aken, Betty and Papaioannou, Jens-Michalis and Naik, Marcel and Eleftheriadis, Georgios and Nejdl, Wolfgang and Gers, Felix and Loeser, Alexander",
+    booktitle = "Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)",
+    pages = "172--184",
+    title = "{This Patient Looks Like That Patient: Prototypical Networks for Interpretable Diagnosis Prediction from Clinical Text}",
+    year = "2022"
+}
